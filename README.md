@@ -30,8 +30,6 @@ THEN I should see a client server folder structure
 
 WHEN I use next-gen JavaScript in my application
 THEN I find that the text editor still functions in the browser without errors
-WHEN I open the text editor
-
 
 ## License
 MIT License
